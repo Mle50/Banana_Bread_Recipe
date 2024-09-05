@@ -20,6 +20,7 @@ This recipe will leave you with a loaf of bread that will impress even the picki
 > Make sure it is well blended!
 4. Add bananas, buttermilk, and vanilla and then mix with the hand mixer
 > ![mixer](mixer.jpg)
+> 
 > This should be very thoughly mixed, there should be as few chunks of banana as possible
 5. Stir in flour, baking soda, and salt until moistened
 > This should be mixed only until all of the dry ingredients are mixed in
