@@ -26,3 +26,4 @@ This recipe will leave you with a loaf of bread that will impress even the picki
 8. Bake the bread for about 1 hour and 15 minutes or until toothpick inserted in the center comes out clean
 9. Let cool for two hours
 10. Serve your bread!
+> ![bread](bread.jpg)
