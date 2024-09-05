@@ -25,7 +25,6 @@ This recipe will leave you with a loaf of bread that will impress even the picki
 > Use either butter or cooking spray to grease the bottoms of the pans so the bread does not stick
 4. In a large bowl, mix the sugar, butter, and eggs
 > ![mix](mix.jpg)
-> You will need to soften the butter, can either leave it out or heat it up in the microwave
 > You can soften the butter by either heating it up in the microwave or leaving it out on the counter till softened enough to mix
 > Mixture should be mixed in well
 4. Add bananas, buttermilk, and vanilla and then mix with the hand mixer
