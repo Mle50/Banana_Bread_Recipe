@@ -11,27 +11,32 @@ This recipe will leave you with a loaf of bread that will impress even the picki
 - 1 teaspoon baking soda
 - 1 teaspoon salt
 - 1 cup chopped nuts, if desired
+## Needed Materials
+- Oven with rack
+- Loaf pan which is 9x5x3 inches
+- Large bowl
+- Mixing spoon
+- Measuring cups and spoons
 - RECOMMENDED: Hand mixer
 ## Steps
 1. Heat oven to 350*F
-> Make sure the racks have enough space in between them for the bread to go
+> Make sure the racks have enough space in between them where the loaf can sit
 3. Grab a loaf pan that is 9x5x3 inches
-> Use either butter or cooking spray to grease the bottoms of the pans
-> This will help the bread to not stick
-4. In a large bowl, mix sugar, butter, and eggs
+> Use either butter or cooking spray to grease the bottoms of the pans so the bread does not stick
+4. In a large bowl, mix the sugar, butter, and eggs
 > ![mix](mix.jpg)
 > You will need to soften the butter, can either leave it out or heat it up in the microwave
-> Make sure it is well blended!
+> You can soften the butter by either heating it up in the microwave or leaving it out on the counter till softened enough to mix
+> Mixture should be mixed in well
 4. Add bananas, buttermilk, and vanilla and then mix with the hand mixer
 > ![mixer](mixer.jpg)
 > 
-> This should be very thoughly mixed, there should be as few chunks of banana as possible
+> This should be very thoughly mixed with as few chunks of banana as possible
 5. Stir in flour, baking soda, and salt until moistened
-> This should be mixed only until all of the dry ingredients are mixed in
-> Mix as little as possible
+> Mix as little as possible, the mixture should only be mixed until all of the dry ingredients are incorporated
 6. Add nuts if desired
-> Be careful if anybody is allergic to them!
-7. Pour mixture into pan
+> Make sure nobody being served the loaf is allergic to nuts
+7. Pour mixture into loaf pan
 > ![pan](pan.jpg)
 > Make sure the batter is pretty level, you can pick up the pan and tap it on the counter a few times to help
 8. Bake the bread for about 1 hour and 15 minutes or until toothpick inserted in the center comes out clean
